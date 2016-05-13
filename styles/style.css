@@ -420,6 +420,9 @@ body {
 	}
 }
 
+.disable{
+     display: none;
+}
 
 
 
